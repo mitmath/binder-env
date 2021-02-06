@@ -5,5 +5,5 @@ dependencies:
   - scipy
   - matplotlib
   - numba
-  - jupyter
   - sympy
+  - nbgitpuller

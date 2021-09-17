@@ -2,4 +2,5 @@
 
 set -ex
 
-julia -e "using WebIO; WebIO.install_jupyter_nbextension()"
+python3 -m pip install --upgrade webio_jupyter_extension
+

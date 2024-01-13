@@ -4,8 +4,5 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
-  - numba
-  - sympy
   - nbgitpuller
   - pip
-  

@@ -16,4 +16,4 @@ SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
 
 [compat]
-julia = "=1.10.0"
+julia = "=1.10.5"
